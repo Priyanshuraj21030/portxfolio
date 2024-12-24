@@ -150,7 +150,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Typing animation for hero section
     const textElement = document.querySelector('.typing-text');
-    const texts = ["Software Developer", "Problem Solver", "Tech Enthusiast", "Proud Hindu"];
+    const texts = ["Software Developer", "Problem Solver", "Tech Enthusiast"];
     let textIndex = 0;
     let charIndex = 0;
 
